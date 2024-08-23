@@ -15,8 +15,8 @@ Before you begin, ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Rajon-Dash/angular-rajon.git
-cd angular-rajon
+git clone https://github.com/Rajon-Dash/PROJECT-ANGULAR.git
+cd PROJECT-ANGULAR
 ```
 
 ## Install Dependencies
